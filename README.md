@@ -1,4 +1,3 @@
-Sure, here's the complete timeline for the 100-day Flutter challenge in README format:
 
 # 100-Day Flutter Challenge
 
